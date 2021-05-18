@@ -1,1 +1,1 @@
-# travel_menu_planner
+# Travel menu planning service
